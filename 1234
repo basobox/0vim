@@ -13,3 +13,52 @@ Here is my list of top 10 plugins for Web Development. You may like it or not bu
  MAKC
 https://github.com/makccr/dot
 https://www.youtube.com/watch?v=B-EPvfxcgl0
+//////////////////////////////////////
+
+
+ landonp1203 /.dotfiles 
+ 
+https://github.com/landonp1203/.dotfiles
+https://www.youtube.com/watch?v=JVpxDuxe1eY
+dotfiles
+My collection of dot files.
+
+  Setting up
+    git clone git@github.com:landonp1203/.dotfiles.git ~/.dotfiles
+    install zsh
+    install oh-my-zsh
+    delete original zshrc file, rm ~/.zshrc
+    ln -s ~/.dotfiles/.zshrc ~/.zshrc
+    open zshrc and edit ZSH file path
+    download Powerlevel9K theme
+    download Vundle
+    source ~/.zshrc
+    go into vim and type PluginInstall
+    done
+    
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ sebbekarlsson /vpm 
+https://github.com/sebbekarlsson/vpm
+https://www.youtube.com/watch?v=zF9EcpYb1KE
+ Ianertson
+2,55 rb subscriber
+
+This is how I configure and setup VIM.
+People have been wondering how I got my VIM looking the way it does in my video "Everything a programmer needs": https://www.youtube.com/watch?v=WRcx2...
+
+So here it is!
+
+
+* Step 1: Get my configuration file: https://raw.githubusercontent.com/seb...
+* Step 2: Put the .vimrc in ~/.vimrc
+* Step 3 install Vundle: https://github.com/VundleVim/Vundle.vim
+* Step 4: Launch VIM and type ":PluginInstall"
+* Step 5: Reboot VIM
+* Step 5: Write beautiful code
+
+Twitter: https://twitter.com/ianertson
+
+    
+
+
